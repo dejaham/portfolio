@@ -9,7 +9,7 @@ Ce repository contient le code source de mon site personnel, qui met en avant :
 
 ## Accès au Site  
 
-🌐 **Portfolio en ligne** : [dejaham.github.io](https://dejaham.github.io)  
+🌐 **Portfolio en ligne** : [dejaham.github.io/portfolio](https://dejaham.github.io/portfolio)  
 
 ---
 
